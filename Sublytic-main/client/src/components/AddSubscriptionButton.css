@@ -1,0 +1,13 @@
+.add-subscription-btn {
+  padding: 0.7rem 1.2rem;
+  background: #2a7ae2;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.add-subscription-btn:hover {
+  background: #1a5bb8;
+}

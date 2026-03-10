@@ -1,0 +1,29 @@
+.help-tooltip {
+  position: relative;
+  display: inline-block;
+}
+.help-icon {
+  color: #2a7ae2;
+  font-size: 1.7rem;
+  cursor: pointer;
+}
+.tooltip-content {
+  position: absolute;
+  top: 2.2rem;
+  right: 0;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.13);
+  padding: 1rem 1.5rem;
+  z-index: 10;
+  min-width: 260px;
+  font-size: 0.98rem;
+  color: #222;
+}
+.tooltip-content ul {
+  margin: 0.5rem 0 0 0;
+  padding-left: 1.1rem;
+}
+.tooltip-content li {
+  margin-bottom: 0.3rem;
+}
