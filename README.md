@@ -1,0 +1,1 @@
+Sublytic is a subscription management platform that gives users clear insights into their recurring expenses and subscription analytics. The platform helps users track payments, monitor renewal dates, and visualize spending trends for better financial management
